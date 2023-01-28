@@ -1,4 +1,4 @@
-### Olá! Me chamo Luciano Paranhos
+### Olá!
 
 <div align="center">
   <a href="https://github.com/lucianoparanhos">
