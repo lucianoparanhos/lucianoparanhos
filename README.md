@@ -2,7 +2,6 @@
 
 Desenvolvedor .Net 
 
----
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucianoparanhos)](https://github.com/lucianoparanhos)
 [![Linkedin: lucianoparanhos](https://img.shields.io/badge/-lucianoparanhos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianoparanhos/)](https://www.linkedin.com/in/lucianoparanhos/)
